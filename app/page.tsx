@@ -38,7 +38,7 @@ export default function Home() {
       <section className="py-16 bg-white">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold tracking-tight text-gray-900">About the Project</h2>
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900">About Our Project</h2>
             <p className="mt-4 text-lg text-gray-600">
               PMI Singapore Chapter 2025 Student Competition Entry
             </p>
@@ -58,7 +58,7 @@ export default function Home() {
               </Link>
             </div>
             <div className="bg-gray-50 p-6 rounded-lg">
-              <h4 className="font-semibold text-gray-900 mb-3">Key Features</h4>
+              <h4 className="font-semibold text-gray-900 mb-3">Core Features</h4>
               <ul className="space-y-2 text-sm text-gray-600">
                 <li>• AI-powered personalized recommendations</li>
                 <li>• Seamless computer vision checkout</li>
