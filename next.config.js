@@ -3,6 +3,9 @@ const nextConfig = {
   images: {
     domains: [],
   },
+  experimental: {
+    optimizeCss: true,
+  },
 }
 
 module.exports = nextConfig
