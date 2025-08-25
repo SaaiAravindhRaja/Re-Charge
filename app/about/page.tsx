@@ -80,16 +80,8 @@ export default function AboutPage() {
                   <div className="flex-1">
                     <h3 className="text-xl font-bold text-gray-900">{member.name}</h3>
                     <p className="text-blue-600 font-medium mb-3">{member.role}</p>
-                    <p className="text-gray-600 mb-4">{member.bio}</p>
                     
-                    <div className="mb-4">
-                      <h4 className="font-semibold text-gray-900 mb-2">Key Responsibilities:</h4>
-                      <ul className="text-sm text-gray-600 space-y-1">
-                        {member.responsibilities.map((responsibility, index) => (
-                          <li key={index}>• {responsibility}</li>
-                        ))}
-                      </ul>
-                    </div>
+
                     
                     <div className="flex space-x-3">
                       {member.links.email && (
