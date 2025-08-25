@@ -3,7 +3,7 @@ import { SiteConfig, TeamMember, Milestone, ProjectInfo } from '@/lib/types';
 export const siteConfig: SiteConfig = {
   name: "DreamShop Singapore",
   tagline: "Revolutionizing retail through AI-powered personalized shopping experiences",
-  description: "PMI Singapore Chapter 2025 Student Competition Entry - The 10m x 10m Shop of Your Dreams",
+  description: "PMI Singapore Chapter 2025 Student Competition - AI-powered retail innovation for the future",
   url: "https://dreamshop-sg.vercel.app",
   demoUrl: "https://demo.dreamshop-sg.com",
   contact: {
@@ -20,54 +20,54 @@ export const teamMembers: TeamMember[] = [
   {
     id: "1",
     name: "Saai Aravindh Raja",
-    role: "Technical Lead & Full-Stack Developer",
-    bio: "Year 2 Computer Science student at SMU",
+    role: "Year 2, School of Computing and Information Systems",
+    bio: "",
     headshot: "/images/team/saai.jpg",
     links: {
       linkedin: "https://linkedin.com/in/saai-aravindh-raja",
       github: "https://github.com/saaiaravindhraja",
       email: "saai@dreamshop-sg.com"
     },
-    responsibilities: ["Full-stack development", "System architecture", "Technical documentation", "Performance optimization"]
+    responsibilities: []
   },
   {
     id: "2",
     name: "Haritha Mahesh",
-    role: "Business Analyst & Project Manager",
-    bio: "Year 2 Information Systems student at SMU specializing in business process optimization and data analytics.",
+    role: "Year 2, School of Computing and Information Systems",
+    bio: "",
     headshot: "/images/team/haritha.jpg",
     links: {
       linkedin: "https://linkedin.com/in/haritha-mahesh",
       github: "https://github.com/haritha-mahesh",
       email: "haritha@dreamshop-sg.com"
     },
-    responsibilities: ["Project coordination", "Business analysis", "Requirements gathering", "Stakeholder management"]
+    responsibilities: []
   },
   {
     id: "3",
     name: "Clemira Jenkins",
-    role: "AI Developer & Data Scientist",
-    bio: "Year 2 Computer Science student at SMU with passion for machine learning and artificial intelligence.",
+    role: "Year 2, School of Computing and Information Systems",
+    bio: "",
     headshot: "/images/team/clemira.jpg",
     links: {
       linkedin: "https://linkedin.com/in/clemira-jenkins",
       github: "https://github.com/clemira-jenkins",
       email: "clemira@dreamshop-sg.com"
     },
-    responsibilities: ["AI/ML development", "Data analysis", "Computer vision systems", "Algorithm optimization"]
+    responsibilities: []
   },
   {
     id: "4",
     name: "Daniella Setio",
-    role: "UX Designer & Frontend Developer",
-    bio: "Year 2 Computer Science student at SMU focused on user experience design and frontend development.",
+    role: "Year 2, School of Computing and Information Systems",
+    bio: "",
     headshot: "/images/team/daniella.jpg",
     links: {
       linkedin: "https://linkedin.com/in/daniella-setio",
       github: "https://github.com/daniella-setio",
       email: "daniella@dreamshop-sg.com"
     },
-    responsibilities: ["UX/UI design", "Frontend development", "User research", "Design systems"]
+    responsibilities: []
   }
 ];
 
@@ -139,10 +139,10 @@ export const projectInfo: ProjectInfo = {
   },
   kpis: [
     "Customer satisfaction score > 4.5/5",
-    "Average transaction time < 3 minutes",
-    "Inventory turnover rate increase by 25%",
+    "Average transaction time < 2 minutes",
+    "Inventory turnover rate increase by 30%",
     "Energy consumption reduction by 40%",
-    "Customer return rate > 80%"
+    "Customer return rate > 85%"
   ],
   constraints: [
     "Budget: $50,000 SGD for prototype development",
