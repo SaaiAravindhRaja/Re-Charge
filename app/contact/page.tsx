@@ -70,7 +70,7 @@ export default function ContactPage() {
               Get in Touch
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
-              Have questions about our project? Want to collaborate or provide feedback? 
+              Have questions about our AI-powered retail project? Want to collaborate or provide feedback? 
               We'd love to hear from you!
             </p>
           </div>
