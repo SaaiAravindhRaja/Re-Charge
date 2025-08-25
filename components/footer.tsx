@@ -38,13 +38,13 @@ export default function Footer() {
               </a>
             </div>
             <p className="text-gray-300 text-sm mt-4">
-              📍 Singapore
+              📍 Singapore Management University
             </p>
           </div>
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-300">
-          <p>&copy; 2025 DreamShop Singapore. All rights reserved.</p>
+          <p>&copy; 2025 DreamShop Singapore Team. All rights reserved.</p>
           <p className="mt-2">
             Licensed under <Link href="/license" className="hover:text-white transition-colors">MIT License</Link> | 
             <Link href="/privacy" className="hover:text-white transition-colors ml-2">Privacy Policy</Link>
