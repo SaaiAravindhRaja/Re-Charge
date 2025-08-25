@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dreamshop-sg.vercel.app/sitemap.xml
