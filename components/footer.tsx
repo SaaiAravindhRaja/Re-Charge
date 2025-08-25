@@ -10,7 +10,7 @@ export default function Footer() {
             <h3 className="text-lg font-semibold mb-4">DreamShop Singapore</h3>
             <p className="text-gray-300 text-sm">
               PMI Singapore Chapter 2025 Student Competition Entry - 
-              Revolutionizing retail through AI-powered experiences.
+              Revolutionizing retail through AI-powered personalized shopping experiences.
             </p>
           </div>
           
