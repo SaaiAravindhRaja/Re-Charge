@@ -14,7 +14,7 @@ export default function DemoPage() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">
-              Experience DreamShop Live
+              Experience DreamShop Singapore Live
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
               Try our AI-powered retail solution and see the future of personalized shopping in action
