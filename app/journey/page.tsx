@@ -72,12 +72,6 @@ export default function JourneyPage() {
                       </div>
                       
                       <div>
-                        <h4 className="font-semibold text-gray-900 mb-3 flex items-center">
-                          <User className="h-4 w-4 text-blue-500 mr-2" />
-                          Owner
-                        </h4>
-                        <p className="text-sm text-gray-600 mb-4">{milestone.owner}</p>
-                        
                         {milestone.risks.length > 0 && (
                           <>
                             <h4 className="font-semibold text-gray-900 mb-3 flex items-center">
@@ -143,11 +137,12 @@ export default function JourneyPage() {
       <section className="py-16">
         <div className="mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
           <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-8 text-white text-center">
-            <h2 className="text-2xl font-bold mb-4">Current Status: Month 2</h2>
+            <h2 className="text-2xl font-bold mb-4">Current Status: August 2025</h2>
             <p className="text-blue-100 mb-6">
               We're currently focused on AI model development and computer vision systems. 
               Our recommendation engine prototype is showing promising results with 85% accuracy 
               in initial testing, and we're making great progress on the checkout system integration.
+              <strong> Final submission deadline: September 26, 2025</strong>
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
               <div className="bg-white/10 rounded-lg p-4">
@@ -155,12 +150,12 @@ export default function JourneyPage() {
                 <div className="text-sm text-blue-100">AI Model Accuracy</div>
               </div>
               <div className="bg-white/10 rounded-lg p-4">
-                <div className="text-2xl font-bold">3/7</div>
+                <div className="text-2xl font-bold">2/7</div>
                 <div className="text-sm text-blue-100">Milestones Complete</div>
               </div>
               <div className="bg-white/10 rounded-lg p-4">
-                <div className="text-2xl font-bold">4</div>
-                <div className="text-sm text-blue-100">Months Remaining</div>
+                <div className="text-2xl font-bold">1</div>
+                <div className="text-sm text-blue-100">Month Remaining</div>
               </div>
             </div>
           </div>
