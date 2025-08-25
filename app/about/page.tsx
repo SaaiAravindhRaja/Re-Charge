@@ -16,7 +16,7 @@ export default function AboutPage() {
           <div className="text-center text-white">
             <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">About Our Team</h1>
             <p className="mt-4 text-xl text-blue-100">
-              Passionate students revolutionizing retail through innovation
+              Passionate students revolutionizing retail through AI innovation
             </p>
           </div>
         </div>
