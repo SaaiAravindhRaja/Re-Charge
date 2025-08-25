@@ -18,7 +18,7 @@ export default function JourneyPage() {
               Our Development Journey
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
-              Follow our 6-month journey from initial concept to competition-ready prototype
+              Follow our exciting 6-month journey from initial concept to competition-ready prototype
             </p>
           </div>
         </div>
