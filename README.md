@@ -201,10 +201,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🏆 Team
 
 **DreamShop Singapore Team**
-- Saai Aravindh Raja - Technical Lead & Full-Stack Developer (Year 2 CS, SMU)
-- Haritha Mahesh - Business Analyst & Project Manager (Year 2 IS, SMU)
-- Clemira Jenkins - AI Developer & Data Scientist (Year 2 CS, SMU)
-- Daniella Setio - UX Designer & Frontend Developer (Year 2 CS, SMU)
+- Saai Aravindh Raja (Year 2 Computer Science, SMU)
+- Haritha Mahesh (Year 2 Information Systems, SMU)
+- Clemira Jenkins (Year 2 Computer Science, SMU)
+- Daniella Setio (Year 2 Computer Science, SMU)
 
 ## 📞 Support
 
