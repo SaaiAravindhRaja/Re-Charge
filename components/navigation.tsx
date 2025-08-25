@@ -25,7 +25,7 @@ export default function Navigation() {
         <div className="flex w-full items-center justify-between py-4">
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold text-gray-900">
-              DreamShop SG
+              🏪 DreamShop SG
             </Link>
           </div>
           
