@@ -17,7 +17,7 @@ export default function DemoPage() {
               Experience DreamShop Live
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
-              Try our AI-powered retail solution and see the future of shopping in action
+              Try our AI-powered retail solution and see the future of personalized shopping in action
             </p>
           </div>
         </div>
