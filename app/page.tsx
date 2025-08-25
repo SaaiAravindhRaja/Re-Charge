@@ -9,7 +9,7 @@ export default function Home() {
       <section className="relative bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <div className="text-6xl mb-4">🏪</div>
+            <div className="text-6xl mb-4">🏪✨</div>
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               {siteConfig.name}
             </h1>
