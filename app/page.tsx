@@ -87,8 +87,7 @@ export default function Home() {
                   {member.name.split(' ').map(n => n[0]).join('')}
                 </div>
                 <h3 className="text-lg font-semibold text-gray-900 text-center">{member.name}</h3>
-                <p className="text-sm text-blue-600 text-center mb-2">{member.role}</p>
-                <p className="text-sm text-gray-600 text-center">{member.bio}</p>
+                <p className="text-sm text-blue-600 text-center">{member.role}</p>
               </div>
             ))}
           </div>
