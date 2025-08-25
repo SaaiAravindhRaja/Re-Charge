@@ -19,7 +19,7 @@ export default function ProjectPage() {
               The 10m x 10m Shop of Your Dreams
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600 max-w-3xl mx-auto">
-              Revolutionizing retail through AI-powered personalization and sustainable innovation
+              Revolutionizing retail through AI-powered personalization, computer vision, and sustainable innovation
             </p>
           </div>
         </div>
