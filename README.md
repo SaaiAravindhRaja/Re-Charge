@@ -1,10 +1,4 @@
-# DreamShop Singapore - PMI Student Competition 2025
-
-> AI-powered retail innovation for the 10m x 10m Shop of Your Dreams
-
-[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC)](https://tailwindcss.com/)
+# Re:Charge
 
 ## 🏆 Competition Entry
 
